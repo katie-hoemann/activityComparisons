@@ -11,3 +11,5 @@ Describing vocabularies across samples:
 Comparing response formats within the 2022 sample:
 - compare_word_embeddings.ipynb (Jupyter notebook [Python] that gets word embeddings for open and categorical responses, calculates cosine distance for each pair)
 
+
+All results are compiled in an R-Markdown script (Script-PART-1.Rmd). The knitted html file contains also results and figures presented in the paper. 
